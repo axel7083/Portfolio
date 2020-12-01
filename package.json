@@ -1,11 +1,12 @@
 {
-  "homepage": "http://axel7083.github.io/portfolio",
+  "homepage": "http://axel7083.github.io/Portfolio",
   "name": "portfolio",
   "version": "0.1.0",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.6",
     "@testing-library/react": "^11.2.2",
     "@testing-library/user-event": "^12.2.2",
+    "query-string": "^6.13.7",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-scripts": "4.0.0",
