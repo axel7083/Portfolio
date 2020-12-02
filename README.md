@@ -15,7 +15,7 @@ This is a repository about a 3D concept Portfolio I made using unity. It is usin
 - [x] Animate character :adult:
 - [x] Animate character's screen :desktop_computer:
 - [x] Music particles :notes:
-- [x] Rotating clock :clock130
+- [x] Rotating clock :clock130:
 - [x] Outline on hover (For interactive item) :black_square_button:
 - [ ] Make the globe rotate :earth_africa:
 - [ ] Make the 3D printer move :printer:
