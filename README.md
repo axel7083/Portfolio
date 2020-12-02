@@ -8,6 +8,8 @@ This is a repository about a 3D concept Portfolio I made using unity. It is usin
 
 ![Demo](https://github.com/axel7083/Portfolio/blob/master/screenshots/demo.PNG)
 
+I am not publishing the sources of the Unity project because I bought some 3D assets that I cannot put here.
+
 ### Todo
 
 #### Animation
@@ -34,3 +36,9 @@ This is a repository about a 3D concept Portfolio I made using unity. It is usin
 - [ ] Github statistics :bar_chart:
 - [ ] Open external link :link:
 
+### Credits
+
+- [CanvasJS for react](https://canvasjs.com/react-charts/)
+- [react-unity-webgl](https://www.npmjs.com/package/react-unity-webgl) by [Jeffrey Lanters](https://github.com/elraccoone)
+- [UnityGlitch](https://github.com/staffantan/unityglitch) by [staffantan](https://github.com/staffantan)
+- [Sleep by Scott Buckly](https://www.scottbuckley.com) :musical_keyboard:
