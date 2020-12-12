@@ -42,3 +42,7 @@ I am not publishing the sources of the Unity project because I bought some 3D as
 - [react-unity-webgl](https://www.npmjs.com/package/react-unity-webgl) by [Jeffrey Lanters](https://github.com/elraccoone)
 - [UnityGlitch](https://github.com/staffantan/unityglitch) by [staffantan](https://github.com/staffantan)
 - [Sleep by Scott Buckly](https://www.scottbuckley.com) :musical_keyboard:
+- <div>Favicon made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+
+
+

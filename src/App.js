@@ -157,7 +157,7 @@ export default class App extends React.Component {
     if(!this.state.mounted || this.state.loaded)
       return;
     const progress = document.querySelector('.progress-done');
-    progress.style.width = (value*100) + '%';
+    progress.style.width = Math.round(value*100) + '%';
     progress.style.opacity = 1;
   }
 
